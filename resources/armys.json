@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Robin Hood",
+    "weapon_power": "5",
+    "magic_factor": "15",
+    "strength": "30",
+    "team": "rebel"
+  },
+  {
+    "id": "2",
+    "name": "Merry Men",
+    "weapon_power": "2",
+    "magic_factor": "2",
+    "strength": "70",
+    "team": "rebel"
+  },
+  {
+    "id": "3",
+    "name": "Sheriff of Nottingham",
+    "weapon_power": "70",
+    "magic_factor": "0",
+    "strength": "500",
+    "team": "sheriff"
+  },
+  {
+    "id": "4",
+    "name": "Army of Nottingham",
+    "weapon_power": "4",
+    "magic_factor": "4",
+    "strength": "50",
+    "team": "sheriff"
+  },
+  {
+    "id": "5",
+    "name": "Saxons",
+    "weapon_power": "3",
+    "magic_factor": "3",
+    "strength": "60",
+    "team": "mercenary"
+  }
+]
